@@ -7,5 +7,5 @@ Paso 3: Vinculación desde el README.md Principal
 
 ## 5. Enlaces Útiles
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
-- [Repositorio Oficial en GitHub](https://github.com/ismael-503/documentacion-sistema-v1)
+- [Repositorio Oficial en GitHub](https://github.com/Ghoster/documentacion-sistema-v)
 4. Haz clic en la Vista Previa (Ctrl + Shift + V) y prueba hacer clic en el enlace "Ver Arquitectura del Sistema". Debe abrirte automáticamente el archivo arquitectura.md.
